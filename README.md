@@ -1,2 +1,2 @@
 # TKinter
-GUI using the TKinter Python Library
+Using the TKinter Python Library to make GUI's
